@@ -1,2 +1,2 @@
 # database
-Database Course an NSU
+Database Course at NSU
