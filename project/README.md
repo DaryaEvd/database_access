@@ -14,10 +14,6 @@
 - [Пример с презенташки чьей-то](http://www.myshared.ru/slide/728148/) 
 
 
-
-
-
-
 ## My project is "PHONEBOOK"  
 ### Описание проекта  
 <h3 style="text-align:center;">Проект №2 «Телефонный справочник» </h3>  
@@ -53,3 +49,20 @@ There is an entity-relational diagram(ERD)
 There is a relational model  
 ![picture relational model](./files/relational_model.jpg)  
 
+
+## Videos that can help with ms access  
+Надо.  
+- [Динамическое меню](https://www.youtube.com/watch?v=W9A6Jj-aE6E&list=LL&index=14), с которого я украла идею основного меню    
+- [Выпадающий список](https://www.youtube.com/watch?v=rODO1amP78o&t=214s)  
+- [Запросики](https://www.youtube.com/watch?v=vtgwXZMXBTo&list=LL&index=3)  
+
+Про отношения "многие-ко-многим"
+- [раз](https://www.youtube.com/watch?v=ys-VCUZ0h7c&list=LL&index=8&t=619s)  
+- [два](https://www.youtube.com/watch?v=Ou1zwJunbuA&list=LL&index=11&t=448s)  
+
+Как хранить несколько телефонных номеров на одного человека?
+- [тут](https://www.youtube.com/watch?v=H2ieiUpzcLM&list=LL&index=9&t=22s)
+
+Чо ищо можно сделать
+- [про флажки и переключатели](https://www.youtube.com/watch?v=w_GUCKrLVQU)  
+- [свич-борд - в менюшку](https://www.youtube.com/watch?v=DkpgDCLce8A)  
