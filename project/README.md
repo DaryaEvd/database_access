@@ -1,4 +1,5 @@
 # Курс "Базы данных"   
+## 1я часть  
 
 ## Полезная (надеюсь) теория  
 
@@ -42,11 +43,11 @@
     4. Вывод на экран названия предприятий и количество специализаций предприятия.
 
 ### ERD
-There is an entity-relational diagram(ERD)  
+Это entity-relational diagram(ERD)  
 ![picture erd](./files/erd.jpg)   
 
 ### Relational model
-There is a relational model  
+Это relational model, которую мне было лень перерисовывать.  
 ![picture relational model](./files/relational_model.jpg)  
 
 
